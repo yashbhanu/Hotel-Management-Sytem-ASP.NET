@@ -1,0 +1,33 @@
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\obj\Debug\hotel management system.csprojResolveAssemblyReference.cache
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\ApplicationInsights.config
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\csc.exe
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\vbc.exe
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\VBCSCompiler.exe
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\hotel management system.dll.config
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\hotel management system.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\hotel management system.pdb
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.Web.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.ApplicationInsights.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.Web.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.ApplicationInsights.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\obj\Debug\hotel management system.dll
+c:\users\yash\documents\visual studio 2015\Projects\hotel management system\hotel management system\obj\Debug\hotel management system.pdb
